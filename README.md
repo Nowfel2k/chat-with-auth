@@ -1,4 +1,6 @@
-# Chat-with-auth (very creative I know)
+All rights reserved to Nicekor 
+
+# Chat App With Auth
 
 ## Project Demo
 https://www.youtube.com/watch?v=2Yrj9KjrAhw&feature=youtu.be
